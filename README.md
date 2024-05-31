@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mostafa</h1>
-<h3 align="center">v2ray bots currently V2board telegram is available</h3>
+<h3 align="center">v2ray bots currently V2board telegram bot is available</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v2raybots&label=Profile%20views&color=0e75b6&style=flat" alt="v2raybots" /> </p>
 
